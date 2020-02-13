@@ -1,0 +1,23 @@
+{
+  "name": "lazy-loading-image",
+  "version": "1.0.0",
+  "description": "This package provides ways to lazy loading images, i.e. load images on a web page when needed, instead of loading them upfront.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Franlyn/lazy-loading-image.git"
+  },
+  "keywords": [
+    "image",
+    "preview"
+  ],
+  "author": "FranL",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Franlyn/lazy-loading-image/issues"
+  },
+  "homepage": "https://github.com/Franlyn/lazy-loading-image#readme"
+}
